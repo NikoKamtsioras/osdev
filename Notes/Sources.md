@@ -5,3 +5,4 @@ https://wiki.osdev.org/Expanded_Main_Page
 
 ## PDF’s
 https://github.com/xueyuanl/ebooks/blob/master/os-dev.pdf
+https://www.bencode.net/blob/nasmcheatsheet.pdf
