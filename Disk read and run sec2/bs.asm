@@ -7,13 +7,11 @@
     mov bp, 0x8000 ; set the stack safely away from us
     mov sp, bp
 
-
-    [org 0x7c00]
     mov bp, 0x8000         ; set up stack safely away from bootloader
     mov sp, bp
 
     mov bx, 0x9000         ; target memory address for loaded sectors
-    mov dh, 1              ; read 2 sectors (sector 2 and 3)
+    mov dh, 1              ; read sector 2
     call disk_load         ; read sectors to 0x9000
 
     jmp 0x0000:0x9000      ; jump to loaded code in sector 2

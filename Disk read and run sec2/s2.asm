@@ -15,5 +15,9 @@ start:
 .done:
     jmp $
 
+
 msg db "Hello from sector 2!", 0
+
+times 4608 - ($ - $$) db 0x90
+
 
