@@ -11,12 +11,9 @@ for sector in s*.asm; do
     nasm -f bin "$sector" -o "$out"
 done
 
-# Create empty sector filler (if needed)
-empty_sector="empty_sector.bin"
-dd if=/dev/zero of="$empty_sector" bs=1024 count=1 status=none
 
 # Concatenate boot sector + all sectors + optional empty filler
-cat boot.bin s*.bin "$empty_sector" > full_image.bin
+cat boot.bin s*.bin > full_image.bin
 
 echo "Build complete: full_image.bin"
 
