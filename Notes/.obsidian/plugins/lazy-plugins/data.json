@@ -1,0 +1,160 @@
+{
+  "dualConfigs": true,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": "instant",
+    "showDescriptions": true,
+    "plugins": {
+      "air-quotes": {
+        "startupType": "short"
+      },
+      "obsidian-annotator": {
+        "startupType": "long"
+      },
+      "calendar": {
+        "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "short"
+      },
+      "templater-obsidian": {
+        "startupType": "instant"
+      },
+      "obsidian-achievements": {
+        "startupType": "disabled"
+      },
+      "obsidian-hider": {
+        "startupType": "instant"
+      },
+      "zenmode": {
+        "startupType": "instant"
+      },
+      "obsidian-local-images-plus": {
+        "startupType": "instant"
+      },
+      "obsidian-book-search-plugin": {
+        "startupType": "long"
+      },
+      "novel-word-count": {
+        "startupType": "instant"
+      },
+      "consistent-attachments-and-links": {
+        "startupType": "instant"
+      },
+      "obsidian-tracker": {
+        "startupType": "instant"
+      },
+      "obsidian-image-layouts": {
+        "startupType": "instant"
+      },
+      "various-complements": {
+        "startupType": "instant"
+      },
+      "easy-typing-obsidian": {
+        "startupType": "instant"
+      },
+      "longform": {
+        "startupType": "instant"
+      },
+      "obsidian-smart-typography": {
+        "startupType": "instant"
+      },
+      "card-board": {
+        "startupType": "instant"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian42-brat": {
+        "startupType": "long"
+      },
+      "nldates-obsidian": {
+        "startupType": "instant"
+      },
+      "task-board": {
+        "startupType": "instant"
+      },
+      "obsidian-auto-hide": {
+        "startupType": "instant"
+      }
+    }
+  },
+  "mobile": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": "instant",
+    "showDescriptions": true,
+    "plugins": {
+      "air-quotes": {
+        "startupType": "short"
+      },
+      "obsidian-annotator": {
+        "startupType": "long"
+      },
+      "calendar": {
+        "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "short"
+      },
+      "templater-obsidian": {
+        "startupType": "instant"
+      },
+      "obsidian-achievements": {
+        "startupType": "instant"
+      },
+      "obsidian-hider": {
+        "startupType": "instant"
+      },
+      "zenmode": {
+        "startupType": "instant"
+      },
+      "obsidian-local-images-plus": {
+        "startupType": "instant"
+      },
+      "obsidian-book-search-plugin": {
+        "startupType": "instant"
+      },
+      "novel-word-count": {
+        "startupType": "instant"
+      },
+      "consistent-attachments-and-links": {
+        "startupType": "instant"
+      },
+      "obsidian-image-layouts": {
+        "startupType": "instant"
+      },
+      "obsidian-tracker": {
+        "startupType": "instant"
+      },
+      "various-complements": {
+        "startupType": "instant"
+      },
+      "easy-typing-obsidian": {
+        "startupType": "instant"
+      },
+      "longform": {
+        "startupType": "instant"
+      },
+      "obsidian-smart-typography": {
+        "startupType": "instant"
+      },
+      "obsidian42-brat": {
+        "startupType": "instant"
+      },
+      "nldates-obsidian": {
+        "startupType": "instant"
+      },
+      "task-board": {
+        "startupType": "instant"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "instant"
+      }
+    }
+  }
+}

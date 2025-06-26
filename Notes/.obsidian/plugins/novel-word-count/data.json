@@ -1,0 +1,146 @@
+{
+  "settings": {
+    "useAdvancedFormatting": false,
+    "countType": "word",
+    "countConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "countType2": "none",
+    "countConfig2": {
+      "$sessionCountType": "word"
+    },
+    "countType3": "none",
+    "countConfig3": {
+      "$sessionCountType": "word"
+    },
+    "pipeSeparator": "|",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "folderCountType2": "none",
+    "folderCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "folderCountType3": "none",
+    "folderCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "folderPipeSeparator": "|",
+    "folderAbbreviateDescriptions": false,
+    "folderAlignment": "inline",
+    "showSameCountsOnRoot": true,
+    "rootCountType": "word",
+    "rootCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "rootCountType2": "none",
+    "rootCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "rootCountType3": "none",
+    "rootCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "rootPipeSeparator": "|",
+    "rootAbbreviateDescriptions": false,
+    "showAdvanced": true,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "AllCharacters",
+    "pageCountType": "ByWords",
+    "includeDirectories": "!04Attachments/",
+    "excludeComments": false,
+    "excludeCodeBlocks": false,
+    "excludeNonVisibleLinkPortions": false,
+    "excludeFootnotes": false,
+    "momentDateFormat": "",
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "os-dev.pdf": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1750924614957,
+      "modifiedDate": 1750924586545,
+      "sizeInBytes": 774438,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "nasmcheatsheet.pdf": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1750924572508,
+      "modifiedDate": 1750924572515,
+      "sizeInBytes": 49098,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Sources.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 244,
+      "nonWhitespaceCharacterCount": 235,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1750924624505,
+      "modifiedDate": 1750924803868,
+      "sizeInBytes": 246,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    }
+  }
+}

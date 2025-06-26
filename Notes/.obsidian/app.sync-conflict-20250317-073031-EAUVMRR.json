@@ -1,0 +1,11 @@
+{
+  "mobileToolbarCommands": [
+    "editor:configure-toolbar",
+    "air-quotes:insert"
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 - Zettelkasten"
+}

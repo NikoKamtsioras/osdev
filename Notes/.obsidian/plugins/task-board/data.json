@@ -1,0 +1,174 @@
+{
+  "version": "",
+  "data": {
+    "boardConfigs": [
+      {
+        "columns": [
+          {
+            "colType": "dated",
+            "active": true,
+            "collapsed": false,
+            "name": "Over Due",
+            "index": 2,
+            "range": {
+              "tag": "before",
+              "rangedata": {
+                "from": -300,
+                "to": -1
+              }
+            }
+          },
+          {
+            "colType": "dated",
+            "active": true,
+            "collapsed": false,
+            "name": "Today",
+            "index": 3,
+            "range": {
+              "tag": "between",
+              "rangedata": {
+                "from": 0,
+                "to": 0
+              }
+            }
+          },
+          {
+            "colType": "dated",
+            "active": true,
+            "collapsed": false,
+            "name": "Tomorrow",
+            "index": 4,
+            "range": {
+              "tag": "between",
+              "rangedata": {
+                "from": 1,
+                "to": 1
+              }
+            }
+          },
+          {
+            "colType": "dated",
+            "active": true,
+            "collapsed": false,
+            "name": "Future",
+            "index": 5,
+            "range": {
+              "tag": "after",
+              "rangedata": {
+                "from": 2,
+                "to": 300
+              }
+            }
+          },
+          {
+            "colType": "completed",
+            "active": true,
+            "collapsed": false,
+            "limit": 20,
+            "name": "Completed",
+            "index": 6
+          }
+        ],
+        "filters": [],
+        "filterPolarity": "0",
+        "filterScope": "Both",
+        "name": "Main",
+        "index": 1,
+        "showColumnTags": false,
+        "showFilteredTags": true
+      }
+    ],
+    "globalSettings": {
+      "lang": "en",
+      "openOnStartup": true,
+      "scanFilters": {
+        "files": {
+          "polarity": 3,
+          "values": []
+        },
+        "folders": {
+          "polarity": 3,
+          "values": [
+            "/"
+          ]
+        },
+        "tags": {
+          "polarity": 3,
+          "values": []
+        }
+      },
+      "firstDayOfWeek": "2",
+      "showTaskWithoutMetadata": true,
+      "ignoreFileNameDates": false,
+      "taskCompletionFormat": "2",
+      "taskCompletionDateTimePattern": "yyyy-MM-DD/HH:mm",
+      "dailyNotesPluginComp": true,
+      "dueDateFormat": "yyyy-MM-DD",
+      "taskCompletionInLocalTime": true,
+      "taskCompletionShowUtcOffset": false,
+      "autoAddDue": true,
+      "scanVaultAtStartup": false,
+      "dayPlannerPlugin": false,
+      "realTimeScanning": true,
+      "columnWidth": "273px",
+      "showHeader": true,
+      "showFooter": true,
+      "showVerticalScroll": false,
+      "tagColors": [
+        {
+          "name": "bug",
+          "color": "rgba(255, 0, 0, 1)",
+          "priority": 1
+        },
+        {
+          "name": "working",
+          "color": "rgba(0, 255, 0, 0.8)",
+          "priority": 2
+        },
+        {
+          "name": "new",
+          "color": "rgba(0, 0, 255, 1)",
+          "priority": 3
+        }
+      ],
+      "editButtonAction": "popUp",
+      "tasksPluginCustomStatuses": [],
+      "tagColorsType": "text",
+      "customStatuses": [
+        {
+          "symbol": " ",
+          "name": "Unchecked",
+          "nextStatusSymbol": "x",
+          "availableAsCommand": false,
+          "type": "TODO"
+        },
+        {
+          "symbol": "/",
+          "name": "In Progress",
+          "nextStatusSymbol": "x",
+          "availableAsCommand": true,
+          "type": "IN_PROGRESS"
+        },
+        {
+          "symbol": "-",
+          "name": "Cancelled",
+          "nextStatusSymbol": "x",
+          "availableAsCommand": true,
+          "type": "CANCELLED"
+        },
+        {
+          "symbol": "x",
+          "name": "Done",
+          "nextStatusSymbol": " ",
+          "availableAsCommand": true,
+          "type": "DONE"
+        }
+      ],
+      "compatiblePlugins": {
+        "dailyNotesPlugin": false,
+        "tasksPlugin": false,
+        "reminderPlugin": false
+      }
+    }
+  }
+}

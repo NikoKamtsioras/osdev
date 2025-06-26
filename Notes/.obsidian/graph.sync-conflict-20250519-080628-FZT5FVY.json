@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"06 - Daily Notes\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"01 - Source Material\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15013172
+      }
+    },
+    {
+      "query": "path:\"06 - Books\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5396192
+      }
+    },
+    {
+      "query": "path:\"06 - Daily Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3482695
+      }
+    },
+    {
+      "query": "path:\"05 - Full Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13193952
+      }
+    },
+    {
+      "query": "path:\"02 - Tags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"03 - Indexes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431387
+      }
+    },
+    {
+      "query": "path:\"00 - Zettelkasten\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13688914
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.486979166666667,
+  "repelStrength": 10.78125,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.08154480053512425,
+  "close": true
+}

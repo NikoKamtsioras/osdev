@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "953e1274cefaccb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6f7ba0ed35ec521",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46edff6e69adbfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily Notes/2024-12-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-25"
+            }
+          },
+          {
+            "id": "1e6a27b77939e1a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Zettelkasten/Kink List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kink List"
+            }
+          },
+          {
+            "id": "76226cf5a6741e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Zettelkasten/Aftermath.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aftermath"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b38ce3c7f467bb06",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ad212554f42558",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a25207fbefcdd98e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fecbb02759e58c19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "soulsee",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e7f42f77471565d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee46b5060dd55ba0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0be3edf06166ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4809bd84aebbab72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 - Daily Notes/2025-05-16.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-05-16"
+            }
+          },
+          {
+            "id": "979b54173358d5f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "951ca0fec3114de0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "842333552c40f8ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6901b6b8c4736514",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "zenmode:Toggle Zen Mode": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true
+    }
+  },
+  "active": "76226cf5a6741e48",
+  "lastOpenFiles": [
+    "00 - Zettelkasten/Kink List.md",
+    "00 - Zettelkasten/Aftermath.md",
+    "06 - Daily Notes/2024-12-25.md",
+    "06 - Daily Notes/2025-05-16.md",
+    "Recording 20250517022447.m4a",
+    "06 - Daily Notes/2025-05-08.md",
+    "06 - Daily Notes/2025-05-12.md",
+    "06 - Daily Notes/2025-05-13.md",
+    "00 - Zettelkasten/Writing is telepathy.md",
+    "00 - Zettelkasten/Chemistry.md",
+    "00 - Zettelkasten/Electrochemical Preparation of Copper Sulfate.md",
+    "05 - Full Notes/GRU-Works Cited.md",
+    "00 - Zettelkasten/Fundamentals of a Chemical Equation.md",
+    "00 - Zettelkasten/Types of Chemical Reactions.md",
+    "00 - Zettelkasten/Genocide Research Unit.md",
+    "00 - Zettelkasten/Summary.md",
+    "05 - Full Notes/CSS.md",
+    "01 - Source Material/How to start writing.md",
+    "01 - Source Material/If writing is thinking, why is it so easy to think yet so hard to write.md",
+    "01 - Source Material/HOW TO WORLD BUILD.md",
+    "01 - Source Material/World Building advice from chat gpt..md",
+    "04 - Templates/Material.md",
+    "01 - Source Material/How I Beat Reading Slumps (pt. 1).md",
+    "06 - Daily Notes/2024-01-10.md",
+    "06 - Daily Notes/2025-05-10.md",
+    "Recording 20250511022240.m4a",
+    "07 - Attachments/Pasted image 20250511022023.png",
+    "00 - Zettelkasten/GRU DRAFT.md",
+    "03 - Indexes/Radio.md",
+    "09 - Attachments/Recording 20250502222730.m4a",
+    "10 - Attachments/Recording 20250502013251.m4a",
+    "10 - Attachments/Recording 20250501214347.m4a",
+    "10 - Attachments/38d0d5fdab2427cb84cacc57f048ba81_MD5.jpg",
+    "10 - Attachments/92840800c0f8fcf40c06a4aef7ae5207_MD5.jpg",
+    "10 - Attachments/Ohyeahmrkrabsportal.jpg",
+    "10 - Attachments/Pasted image 20250423101401.png",
+    "10 - Attachments/Recording 20250427021837.m4a",
+    "10 - Attachments/Recording 20250427021631.m4a",
+    "10 - Attachments/Recording 20250426003119.m4a",
+    "10 - Attachments/Recording 20250425002240.m4a",
+    "10 - Attachments/Recording 20250424023318.m4a",
+    "10 - Attachments/rn_image_picker_lib_temp_bee0fe34-5bc9-471f-b8d7-fed9c85b2dc4.png",
+    "10 - Attachments/GD1TwJtWEAAsCn5.jpeg",
+    "10 - Attachments/Pasted image 20240622014701.png",
+    "10 - Attachments/ce3aa50956cd0cfc2ecd9b1c142a7ecc_MD5.jpg",
+    "10 - Attachments/ae57d283a4199cfe7356e5210f4e9626_MD5.jpeg"
+  ]
+}

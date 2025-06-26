@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"05Daily Notes\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:01Literature  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:02Tags  ",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "path:00Zettelkasten  ",
+      "color": {
+        "a": 1,
+        "rgb": 14147666
+      }
+    },
+    {
+      "query": "path:\"02Full Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9589472
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.486979166666667,
+  "repelStrength": 10.78125,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.27484878779088795,
+  "close": false
+}
